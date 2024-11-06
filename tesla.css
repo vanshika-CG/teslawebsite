@@ -1,0 +1,209 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    width: 100%;
+    height: 55px;
+    background-color: #F4F4F4;
+    position: fixed;
+}
+.nav-text{
+    text-align: center;
+    margin-top: 20px;
+}
+.learn{
+    margin-left: 13px;
+    text-decoration: underline;
+}
+.page2{
+    position: absolute;
+    top: 533px;
+}
+
+.model{
+    color: white;
+    position: absolute;
+    top:60px;
+    left: 530px;
+    font-size: 55px;
+    font-weight: bold;
+}
+.apr{
+    color: white;
+    position: absolute;
+    top: 130px;
+    left: 500px;
+    font-size:37px; 
+}
+.lease{
+    color: white;
+    position: absolute;
+    top: 180px;
+    left: 530px;
+    font-size: large;
+    font-weight: bold;
+    border-top: 2px solid white;
+    padding-top: 10px;
+}
+.order{
+    background-color: #3E6AE1;
+    height: 40px;
+    width: 280px;
+    position: absolute;
+    top: 670px;
+    left: 380px;
+    border-radius: 5px;
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+}
+.now{
+    margin-top: 10px;
+}
+.demo{
+    background-color: white;
+    height: 40px;
+    width: 280px;
+    position: absolute;
+    top: 670px;
+    left: 680px;
+    border-radius: 5px;
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.page3{
+    position: absolute;
+    top: 1280px;
+}
+
+.page4{
+    position: absolute;
+    top: 2027px;
+}
+
+.page5{
+    position: absolute;
+    top: 3521px;
+}
+.page6{
+    position: absolute;
+    top:4268px;
+}
+.page7{
+    position: absolute;
+    top:5057px;
+}
+.page8{
+    position: absolute;
+    top:5804px;
+}
+.page9{
+    position: absolute;
+    top:6551px;
+}
+.apr4{
+    color: white;
+    position: absolute;
+    top: 130px;
+    left: 530px;
+    font-size:30px; 
+    font-weight: bold;
+}
+.tax{
+color: white;
+position: absolute;
+top: 180px;
+left: 510px;
+font-size: larger;
+text-decoration: underline;
+}
+.gas{
+    color: white;
+    position: absolute;
+    top: 205px;
+    left: 515px;
+    font-size: larger;
+    text-decoration: underline;
+}
+
+.page10{
+    position: absolute;
+    top: 2774px;
+}
+
+.demo1{
+    background-color: black;
+    height: 40px;
+    width: 280px;
+    position: absolute;
+    top: 670px;
+    left: 680px;
+    border-radius: 2px;
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+    opacity: 0.9;
+
+}
+
+.order1{
+    background-color: black;
+    height: 40px;
+    width: 280px;
+    position: absolute;
+    top: 670px;
+    left: 380px;
+    border-radius: 2px;
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+    opacity: 0.9;
+    border-top: 2px solid grey;
+}
+
+.apr6{
+    color: white;
+    position: absolute;
+    top: 130px;
+    left: 450px;
+    font-size:37px; 
+    text-decoration: underline;
+}
+
+.apr7{
+    color: white;
+    position: absolute;
+    top: 130px;
+    left: 360px;
+    font-size:37px; 
+}
+
+.model9{
+    color: white;
+    position: absolute;
+    top:90px;
+    left: 440px;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.order9{
+    background-color: #3E6AE1;
+    height: 40px;
+    width: 250px;
+    position: absolute;
+    top: 670px;
+    left: 520px;
+    border-radius: 5px;
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+}
